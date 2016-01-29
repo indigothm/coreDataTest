@@ -13,6 +13,7 @@
 		3F86A2341C5BEBB5002316AC /* CoreDataDemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3F86A2321C5BEBB5002316AC /* CoreDataDemo.xcdatamodeld */; };
 		3F86A2361C5BEBB5002316AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F86A2351C5BEBB5002316AC /* Assets.xcassets */; };
 		3F86A2391C5BEBB5002316AC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F86A2371C5BEBB5002316AC /* LaunchScreen.storyboard */; };
+		3F86A2431C5BEC4E002316AC /* Contact.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F86A2411C5BEC4E002316AC /* Contact.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3F86A2351C5BEBB5002316AC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F86A2381C5BEBB5002316AC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F86A23A1C5BEBB5002316AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F86A2411C5BEC4E002316AC /* Contact.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Contact.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		3F86A22A1C5BEBB5002316AC /* CoreDataDemo */ = {
 			isa = PBXGroup;
 			children = (
+				3F86A2411C5BEC4E002316AC /* Contact.swift */,
 				3F86A22B1C5BEBB5002316AC /* AppDelegate.swift */,
 				3F86A22D1C5BEBB5002316AC /* ViewController.swift */,
 				3F86A22F1C5BEBB5002316AC /* Main.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F86A22E1C5BEBB5002316AC /* ViewController.swift in Sources */,
+				3F86A2431C5BEC4E002316AC /* Contact.swift in Sources */,
 				3F86A2341C5BEBB5002316AC /* CoreDataDemo.xcdatamodeld in Sources */,
 				3F86A22C1C5BEBB5002316AC /* AppDelegate.swift in Sources */,
 			);
